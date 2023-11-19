@@ -1,0 +1,115 @@
+All taxa assignment breakdown
+0 of 834 total zOTUs dropped at domain level
+15 of 834 total zOTUs dropped at kingdom level
+18 of 834 total zOTUs dropped at phylum level
+28 of 834 total zOTUs dropped at class level
+49 of 834 total zOTUs dropped at order level
+106 of 834 total zOTUs dropped at family level
+182 of 834 total zOTUs dropped at genus level
+396 of 834 total zOTUs dropped at species level
+
+Target subset taxonomic breakdown (within Chordata)
+0 of 62 target zOTUs dropped at domain level
+0 of 62 target zOTUs dropped at kingdom level
+0 of 62 target zOTUs dropped at phylum level
+0 of 62 target zOTUs dropped at class level
+9 of 62 target zOTUs dropped at order level
+15 of 62 target zOTUs dropped at family level
+31 of 62 target zOTUs dropped at genus level
+42 of 62 target zOTUs dropped at species level
+
+          class  n
+    Actinopteri 54
+     Ascidiacea  4
+ Chondrichthyes  4
+
+             order n
+           dropped 9
+ Tetraodontiformes 8
+  Holocentriformes 7
+                   6
+      Beloniformes 5
+   Acanthuriformes 4
+   Stolidobranchia 4
+       Perciformes 3
+   Syngnathiformes 3
+     Carangiformes 2
+ Carcharhiniformes 2
+  Centrarchiformes 2
+ Chaetodontiformes 2
+       Gobiiformes 1
+    Hexanchiformes 1
+     Lutjaniformes 1
+     Salmoniformes 1
+     Scombriformes 1
+
+         family  n
+        dropped 15
+  Holocentridae  7
+  Pomacentridae  5
+   Acanthuridae  4
+        Molidae  4
+      Styelidae  4
+    Exocoetidae  3
+       Mullidae  3
+ Carcharhinidae  2
+ Chaetodontidae  2
+     Balistidae  1
+     Carangidae  1
+    Cirrhitidae  1
+  Coryphaenidae  1
+    Diodontidae  1
+       Gobiidae  1
+    Hexanchidae  1
+     Lutjanidae  1
+  Monacanthidae  1
+  Pomacanthidae  1
+     Salmonidae  1
+     Serranidae  1
+ Tetraodontidae  1
+
+           genus  n
+         dropped 31
+    Botrylloides  3
+            Mola  3
+    Sargocentron  3
+       Dascyllus  2
+            Naso  2
+    Cantherhines  1
+       Chaetodon  1
+      Coryphaena  1
+      Decapterus  1
+          Diodon  1
+       Exocoetus  1
+ Hemitaurichthys  1
+       Hexanchus  1
+        Lutjanus  1
+  Mulloidichthys  1
+    Mycteroperca  1
+     Myripristis  1
+      Parupeneus  1
+     Plectrypops  1
+        Ranzania  1
+           Salmo  1
+         Sphyrna  1
+    Xanthichthys  1
+
+                     species  n
+                     dropped 42
+                   Mola mola  3
+         Dascyllus albisella  2
+         Botrylloides anceps  1
+        Coryphaena equiselis  1
+         Decapterus maruadsi  1
+          Diodon holocanthus  1
+       Exocoetus monocirrhus  1
+   Hemitaurichthys polylepis  1
+           Hexanchus griseus  1
+             Lutjanus gibbus  1
+            Naso hexacanthus  1
+            Plectrypops lima  1
+             Ranzania laevis  1
+ Sargocentron punctatissimum  1
+          Sargocentron tiere  1
+             Sphyrna zygaena  1
+          Xanthichthys mento  1

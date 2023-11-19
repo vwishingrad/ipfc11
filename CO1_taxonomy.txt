@@ -1,0 +1,145 @@
+All taxa assignment breakdown
+0 of 271 total zOTUs dropped at domain level
+0 of 271 total zOTUs dropped at kingdom level
+1 of 271 total zOTUs dropped at phylum level
+2 of 271 total zOTUs dropped at class level
+8 of 271 total zOTUs dropped at order level
+27 of 271 total zOTUs dropped at family level
+59 of 271 total zOTUs dropped at genus level
+95 of 271 total zOTUs dropped at species level
+
+Target subset taxonomic breakdown (within Chordata)
+0 of 60 target zOTUs dropped at domain level
+0 of 60 target zOTUs dropped at kingdom level
+0 of 60 target zOTUs dropped at phylum level
+0 of 60 target zOTUs dropped at class level
+4 of 60 target zOTUs dropped at order level
+4 of 60 target zOTUs dropped at family level
+4 of 60 target zOTUs dropped at genus level
+18 of 60 target zOTUs dropped at species level
+
+          class  n
+    Actinopteri 31
+ Chondrichthyes 12
+       Mammalia 12
+     Ascidiacea  5
+
+             order  n
+          Primates 11
+   Acanthuriformes  7
+ Carcharhiniformes  6
+                    5
+           dropped  4
+      Clupeiformes  3
+     Salmoniformes  3
+   Stolidobranchia  3
+ Tetraodontiformes  3
+  Centrarchiformes  2
+       Labriformes  2
+    Phlebobranchia  2
+      Beloniformes  1
+     Carangiformes  1
+         Carnivora  1
+ Chaetodontiformes  1
+ Echinorhiniformes  1
+        Gadiformes  1
+    Hexanchiformes  1
+  Holocentriformes  1
+   Myliobatiformes  1
+
+          family  n
+       Hominidae 11
+    Acanthuridae  7
+  Carcharhinidae  4
+         dropped  4
+       Clupeidae  3
+   Pomacentridae  3
+      Salmonidae  3
+       Styelidae  3
+      Ascidiidae  2
+     Diodontidae  2
+        Labridae  2
+       Siganidae  2
+         Canidae  1
+      Carangidae  1
+  Chaetodontidae  1
+     Cirrhitidae  1
+  Echinorhinidae  1
+         Gadidae  1
+   Hemiramphidae  1
+     Hexanchidae  1
+   Holocentridae  1
+      Kyphosidae  1
+    Myliobatidae  1
+     Ostraciidae  1
+ Pseudotriakidae  1
+       Triakidae  1
+
+           genus  n
+            Homo 11
+         dropped  4
+    Botrylloides  3
+    Carcharhinus  3
+       Dascyllus  3
+      Acanthurus  2
+         Ascidia  2
+      Brevoortia  2
+            Naso  2
+         Siganus  2
+       Zebrasoma  2
+           Canis  1
+       Chaetodon  1
+   Chilomycterus  1
+       Chlorurus  1
+       Coregonus  1
+          Diodon  1
+    Echinorhinus  1
+ Euleptorhamphus  1
+       Hexanchus  1
+     Hipposcarus  1
+        Kyphosus  1
+          Mobula  1
+        Mustelus  1
+    Oncorhynchus  1
+       Ostracion  1
+   Paracanthurus  1
+   Paracirrhites  1
+      Pollachius  1
+   Pseudotriakis  1
+           Salmo  1
+    Sargocentron  1
+         Seriola  1
+         Sphyrna  1
+        Sprattus  1
+
+                   species  n
+                   dropped 18
+              Homo sapiens 10
+           Ascidia ahodori  2
+       Brevoortia tyrannus  2
+ Carcharhinus melanopterus  2
+            Naso vlamingii  2
+      Acanthurus tennentii  1
+     Carcharhinus plumbeus  1
+         Chaetodon kleinii  1
+ Chilomycterus reticulatus  1
+     Chlorurus microrhinos  1
+     Coregonus sp. balchen  1
+       Dascyllus albisella  1
+         Dascyllus aruanus  1
+       Echinorhinus cookei  1
+   Euleptorhamphus viridis  1
+         Hexanchus griseus  1
+     Hipposcarus longiceps  1
+      Kyphosus cinerascens  1
+            Mobula alfredi  1
+      Oncorhynchus kisutch  1
+       Ostracion meleagris  1
+     Paracanthurus hepatus  1
+     Paracirrhites arcatus  1
+     Pollachius pollachius  1
+    Pseudotriakis microdon  1
+              Salmo trutta  1
+         Seriola rivoliana  1
+            Sphyrna lewini  1
+         Sprattus sprattus  1

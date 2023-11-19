@@ -1,0 +1,325 @@
+All taxa assignment breakdown
+0 of 850 total zOTUs dropped at domain level
+1 of 850 total zOTUs dropped at kingdom level
+267 of 850 total zOTUs dropped at phylum level
+304 of 850 total zOTUs dropped at class level
+346 of 850 total zOTUs dropped at order level
+359 of 850 total zOTUs dropped at family level
+377 of 850 total zOTUs dropped at genus level
+482 of 850 total zOTUs dropped at species level
+
+Target subset taxonomic breakdown (within Chordata)
+0 of 165 target zOTUs dropped at domain level
+0 of 165 target zOTUs dropped at kingdom level
+0 of 165 target zOTUs dropped at phylum level
+0 of 165 target zOTUs dropped at class level
+1 of 165 target zOTUs dropped at order level
+2 of 165 target zOTUs dropped at family level
+3 of 165 target zOTUs dropped at genus level
+55 of 165 target zOTUs dropped at species level
+
+          class   n
+    Actinopteri 141
+ Chondrichthyes  13
+       Mammalia   8
+           Aves   3
+
+              order  n
+    Acanthuriformes 21
+                    14
+  Tetraodontiformes 13
+      Carangiformes 11
+      Scombriformes  8
+  Carcharhiniformes  7
+       Clupeiformes  7
+   Holocentriformes  7
+    Syngnathiformes  7
+        Perciformes  6
+       Beloniformes  5
+        Gobiiformes  5
+        Labriformes  5
+           Primates  5
+      Salmoniformes  5
+   Centrarchiformes  4
+  Chaetodontiformes  4
+      Lutjaniformes  4
+         Gadiformes  3
+        Galliformes  3
+      Blenniiformes  2
+          Carnivora  2
+     Chimaeriformes  2
+ Cyprinodontiformes  2
+        Spariformes  2
+       Albuliformes  1
+     Anguilliformes  1
+       Artiodactyla  1
+     Atheriniformes  1
+       Cichliformes  1
+  Echinorhiniformes  1
+     Hexanchiformes  1
+       Mugiliformes  1
+    Myliobatiformes  1
+         Rajiformes  1
+            dropped  1
+
+          family  n
+    Acanthuridae 21
+   Pomacentridae  9
+      Carangidae  8
+       Clupeidae  7
+   Holocentridae  7
+  Carcharhinidae  6
+        Gobiidae  5
+       Hominidae  5
+        Labridae  5
+        Mullidae  5
+      Salmonidae  5
+  Chaetodontidae  4
+      Lutjanidae  4
+        Nomeidae  4
+      Balistidae  3
+   Coryphaenidae  3
+     Exocoetidae  3
+         Gadidae  3
+     Phasianidae  3
+      Scombridae  3
+      Blenniidae  2
+         Canidae  2
+     Chimaeridae  2
+     Cirrhitidae  2
+         Molidae  2
+   Monacanthidae  2
+     Ostraciidae  2
+     Poeciliidae  2
+   Pomacanthidae  2
+    Scorpaenidae  2
+      Serranidae  2
+  Tetraodontidae  2
+         dropped  2
+       Albulidae  1
+     Atherinidae  1
+       Belonidae  1
+         Bovidae  1
+       Cichlidae  1
+   Cyclopteridae  1
+ Dactylopteridae  1
+     Diodontidae  1
+  Echinorhinidae  1
+   Fistulariidae  1
+      Gempylidae  1
+   Hemiramphidae  1
+     Hexanchidae  1
+       Kuhliidae  1
+      Kyphosidae  1
+     Lethrinidae  1
+       Mugilidae  1
+      Muraenidae  1
+    Myliobatidae  1
+    Nemipteridae  1
+ Pseudochromidae  1
+ Pseudotriakidae  1
+         Rajidae  1
+      Sebastidae  1
+       Siganidae  1
+    Sphyraenidae  1
+
+            genus  n
+       Acanthurus 11
+             Homo  5
+        Abudefduf  4
+     Carcharhinus  4
+         Lutjanus  4
+     Oncorhynchus  4
+        Chaetodon  3
+           Clupea  3
+       Coryphaena  3
+           Gallus  3
+       Parupeneus  3
+     Sargocentron  3
+        Zebrasoma  3
+          dropped  3
+ Amblyglyphidodon  2
+    Asterropteryx  2
+            Canis  2
+     Cantherhines  2
+      Cheilopogon  2
+         Chimaera  2
+        Chlorurus  2
+     Ctenochaetus  2
+        Dascyllus  2
+       Decapterus  2
+            Gadus  2
+   Mulloidichthys  2
+      Myripristis  2
+             Naso  2
+    Paracanthurus  2
+    Paracirrhites  2
+           Psenes  2
+          Scomber  2
+     Scorpaenodes  2
+         Sprattus  2
+           Albula  1
+       Amphiprion  1
+         Arothron  1
+    Atherinomorus  1
+            Atule  1
+         Bodianus  1
+              Bos  1
+       Brevoortia  1
+           Caranx  1
+       Centropyge  1
+    Chilomycterus  1
+        Choerodon  1
+         Cubiceps  1
+      Cyclopterus  1
+     Dactyloptena  1
+     Echinorhinus  1
+      Epinephelus  1
+  Euleptorhamphus  1
+       Fistularia  1
+       Galeocerdo  1
+         Gambusia  1
+         Gempylus  1
+      Gnathanodon  1
+      Gymnothorax  1
+        Heniochus  1
+  Herklotsichthys  1
+        Hexanchus  1
+           Kuhlia  1
+         Kyphosus  1
+         Lactoria  1
+     Lagocephalus  1
+        Lethrinus  1
+         Masturus  1
+           Mobula  1
+            Mugil  1
+     Mugilogobius  1
+        Neoniphon  1
+           Nomeus  1
+           Odonus  1
+      Omobranchus  1
+        Ostracion  1
+     Parablennius  1
+     Parexocoetus  1
+     Pictichromis  1
+      Plectrypops  1
+         Poecilia  1
+       Pollachius  1
+      Pomacanthus  1
+    Pseudotriakis  1
+      Psilogobius  1
+     Ptereleotris  1
+             Raja  1
+         Ranzania  1
+            Salmo  1
+     Sarotherodon  1
+        Scolopsis  1
+     Scomberoides  1
+         Sebastes  1
+            Selar  1
+          Seriola  1
+          Siganus  1
+        Sphyraena  1
+          Sphyrna  1
+        Sufflamen  1
+       Thalassoma  1
+          Thunnus  1
+        Tylosurus  1
+          Variola  1
+     Xanthichthys  1
+
+                         species  n
+                         dropped 55
+                    Homo sapiens  5
+              Acanthurus blochii  4
+              Abudefduf sordidus  2
+           Acanthurus triostegus  2
+      Asterropteryx semipunctata  2
+              Chimaera monstrosa  2
+                 Clupea harengus  2
+             Coryphaena hippurus  2
+                 Lutjanus fulvus  2
+           Paracanthurus hepatus  2
+     Scorpaenodes quadrispinosus  2
+               Sprattus sprattus  2
+             Acanthurus lineatus  1
+          Acanthurus nigrofuscus  1
+            Acanthurus olivaceus  1
+         Acanthurus xanthopterus  1
+              Albula glossodonta  1
+         Amblyglyphidodon aureus  1
+               Arothron hispidus  1
+         Atherinomorus insularum  1
+                      Atule mate  1
+                      Bos taurus  1
+          Cantherhines dumerilii  1
+     Cantherhines sandwichiensis  1
+       Carcharhinus melanopterus  1
+            Centropyge loriculus  1
+            Chaetodon lineolatus  1
+            Chaetodon melannotus  1
+       Chilomycterus reticulatus  1
+             Choerodon fasciatus  1
+                 Clupea pallasii  1
+            Coryphaena equiselis  1
+        Ctenochaetus tominiensis  1
+              Cyclopterus lumpus  1
+               Dascyllus aruanus  1
+           Decapterus macarellus  1
+             Echinorhinus cookei  1
+         Euleptorhamphus viridis  1
+          Fistularia commersonii  1
+               Galeocerdo cuvier  1
+                Gambusia affinis  1
+                Gempylus serpens  1
+           Gnathanodon speciosus  1
+     Gymnothorax flavimarginatus  1
+ Herklotsichthys quadrimaculatus  1
+               Hexanchus griseus  1
+                   Kuhlia xenura  1
+              Lactoria fornasini  1
+       Lagocephalus lagocephalus  1
+        Lethrinus erythracanthus  1
+                  Lutjanus bohar  1
+                Lutjanus kasmira  1
+            Masturus lanceolatus  1
+                  Mugil cephalus  1
+          Mugilogobius cavifrons  1
+    Mulloidichthys flavolineatus  1
+           Myripristis chryseres  1
+                  Naso vlamingii  1
+               Neoniphon sammara  1
+                 Nomeus gronovii  1
+                    Odonus niger  1
+            Omobranchus obliquus  1
+            Oncorhynchus kisutch  1
+             Oncorhynchus mykiss  1
+             Ostracion meleagris  1
+          Parablennius thysanius  1
+           Paracirrhites arcatus  1
+          Paracirrhites forsteri  1
+       Parexocoetus brachypterus  1
+          Parupeneus cyclostomus  1
+       Parupeneus multifasciatus  1
+         Parupeneus pleurostigma  1
+       Pictichromis paccagnellae  1
+                Plectrypops lima  1
+               Pollachius virens  1
+      Pomacanthus semicirculatus  1
+          Pseudotriakis microdon  1
+           Psilogobius mainlandi  1
+        Ptereleotris heteroptera  1
+                 Ranzania laevis  1
+                     Salmo salar  1
+            Sargocentron ittodai  1
+     Sargocentron punctatissimum  1
+       Sarotherodon melanotheron  1
+             Scolopsis bilineata  1
+                Scomber scombrus  1
+              Scomberoides lysan  1
+          Selar crumenophthalmus  1
+               Seriola rivoliana  1
+                  Sphyrna lewini  1
+                 Sufflamen bursa  1
+                   Variola louti  1
+               Zebrasoma velifer  1
