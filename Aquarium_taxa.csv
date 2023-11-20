@@ -1,0 +1,53 @@
+ID,phylum,class,order,family,genus,species,28S,Berry_16S,CO1,MiFish_E,MiFish_U,Riaz_12S
+Zotu102,Chordata,Chaetodontiformes,Chaetodontiformes,Chaetodontidae,Chaetodon,Chaetodon melannotus,0,1,0,0,1,1
+Zotu103,Chordata,Chaetodontiformes,Chaetodontiformes,Chaetodontidae,Hemitaurichthys,Hemitaurichthys polylepis,1,0,0,0,0,0
+Zotu104,Chordata,Chaetodontiformes,Chaetodontiformes,Chaetodontidae,Heniochus,,0,0,0,1,1,1
+Zotu105,Chordata,Chaetodontiformes,Chaetodontiformes,Chaetodontidae,Heniochus,Heniochus singularius,0,1,0,0,0,0
+Zotu109,Chordata,Clupeiformes,Clupeiformes,Clupeidae,,,0,0,0,0,0,1
+Zotu11,Chordata,Perciformes,Perciformes,Pomacentridae,Amblyglyphidodon,,0,0,0,1,0,1
+Zotu110,Chordata,Clupeiformes,Clupeiformes,Clupeidae,Brevoortia,,0,1,0,1,1,1
+Zotu111,Chordata,Clupeiformes,Clupeiformes,Clupeidae,Brevoortia,Brevoortia tyrannus,0,1,1,0,0,0
+Zotu112,Chordata,Clupeiformes,Clupeiformes,Clupeidae,Clupea,Clupea harengus,0,1,0,1,1,0
+Zotu113,Chordata,Clupeiformes,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,0,0,0,1,1,0
+Zotu118,Chordata,Clupeiformes,Clupeiformes,Clupeidae,Sprattus,Sprattus sprattus,0,1,1,1,1,0
+Zotu12,Chordata,Perciformes,Perciformes,Pomacentridae,Amblyglyphidodon,Amblyglyphidodon aureus,0,1,0,0,1,0
+Zotu128,Chordata,Gadiformes,Gadiformes,Gadidae,,,0,0,0,0,0,1
+Zotu13,Chordata,Perciformes,Perciformes,Pomacentridae,Amphiprion,,0,1,0,1,1,1
+Zotu131,Chordata,Gadiformes,Gadiformes,Gadidae,Merlangius,Merlangius merlangus,0,1,0,0,0,0
+Zotu132,Chordata,Gadiformes,Gadiformes,Gadidae,Micromesistius,Micromesistius poutassou,0,0,0,0,0,1
+Zotu133,Chordata,Gadiformes,Gadiformes,Gadidae,Pollachius,Pollachius pollachius,0,0,1,0,0,0
+Zotu134,Chordata,Gadiformes,Gadiformes,Gadidae,Pollachius,Pollachius virens,0,1,0,1,0,0
+Zotu14,Chordata,Perciformes,Perciformes,Pomacentridae,Dascyllus,,0,0,0,0,0,1
+Zotu155,Chordata,Holocentriformes,Holocentriformes,Holocentridae,Sargocentron,,0,0,1,0,0,0
+Zotu157,Chordata,Holocentriformes,Holocentriformes,Holocentridae,Sargocentron,Sargocentron punctatissimum,1,0,0,0,0,0
+Zotu16,Chordata,Perciformes,Perciformes,Pomacentridae,Dascyllus,Dascyllus aruanus,0,1,1,0,0,0
+Zotu164,Chordata,Labriformes,Labriformes,Labridae,Choerodon,Choerodon fasciatus,0,1,0,1,1,1
+Zotu18,Chordata,Perciformes,Perciformes,Siganidae,Siganus,,0,1,1,1,1,1
+Zotu182,Chordata,Perciformes,Perciformes,Sebastidae,Sebastes,,0,0,0,0,1,0
+Zotu186,Chordata,Perciformes,Perciformes,Serranidae,Mycteroperca,,1,0,0,0,0,0
+Zotu190,Chordata,Pleuronectiformes,Pleuronectiformes,Pleuronectidae,,,0,0,0,0,0,1
+Zotu197,Chordata,Rajiformes,Rajiformes,Rajidae,Raja,,0,0,0,1,0,0
+Zotu198,Chordata,Salmoniformes,Salmoniformes,Salmonidae,,,0,0,0,0,0,1
+Zotu199,Chordata,Salmoniformes,Salmoniformes,Salmonidae,Coregonus,Coregonus sp. balchen,0,0,1,0,0,0
+Zotu20,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,,,1,1,0,1,0,1
+Zotu202,Chordata,Salmoniformes,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus kisutch,0,0,1,0,0,1
+Zotu203,Chordata,Salmoniformes,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus mykiss,0,1,0,1,0,1
+Zotu204,Chordata,Salmoniformes,Salmoniformes,Salmonidae,Salmo,,1,1,0,0,0,0
+Zotu205,Chordata,Salmoniformes,Salmoniformes,Salmonidae,Salmo,Salmo salar,0,0,0,1,1,1
+Zotu206,Chordata,Salmoniformes,Salmoniformes,Salmonidae,Salmo,Salmo trutta,0,0,1,0,0,0
+Zotu21,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Acanthurus,,0,1,1,0,0,1
+Zotu225,Chordata,Spariformes,Spariformes,Nemipteridae,Scolopsis,Scolopsis bilineata,0,0,0,1,0,1
+Zotu242,Chordata,Tetraodontiformes,Tetraodontiformes,Balistidae,Odonus,Odonus niger,0,1,0,1,1,1
+Zotu245,Chordata,Tetraodontiformes,Tetraodontiformes,Balistidae,Xanthichthys,Xanthichthys mento,1,0,0,0,0,0
+Zotu25,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Acanthurus,Acanthurus nigrofuscus,0,0,0,1,1,0
+Zotu26,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Acanthurus,Acanthurus olivaceus,0,1,0,1,1,1
+Zotu27,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Acanthurus,Acanthurus tennentii,0,0,1,0,0,0
+Zotu3,Chordata,Perciformes,Perciformes,Pomacanthidae,,,1,0,0,0,0,0
+Zotu34,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Ctenochaetus,Ctenochaetus tominiensis,0,0,0,1,1,0
+Zotu35,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Naso,,1,0,0,0,0,1
+Zotu38,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Naso,Naso vlamingii,0,1,1,1,1,0
+Zotu39,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Paracanthurus,Paracanthurus hepatus,0,1,1,1,1,0
+Zotu40,Chordata,Acanthuriformes,Acanthuriformes,Acanthuridae,Zebrasoma,,0,1,1,1,1,1
+Zotu6,Chordata,Perciformes,Perciformes,Pomacanthidae,Pomacanthus,Pomacanthus semicirculatus,0,1,0,1,1,1
+Zotu7,Chordata,Perciformes,Perciformes,Pomacentridae,,,1,0,0,0,0,0
+Zotu87,Chordata,Carcharhiniformes,Carcharhiniformes,Triakidae,Mustelus,,0,0,1,0,0,0
